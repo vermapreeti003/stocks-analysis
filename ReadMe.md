@@ -11,6 +11,7 @@ The data that is presented includes two charts with stock information on 12 diff
 
 ### Analysis
 Before refactoring the code, I used the original script codes and activated it. The refactoring steps were structured out in order to follow. the steps were as below:
+![Refactor_time_2017.png](Code_Refactoring.png)
 
 ## Summary
 
@@ -19,3 +20,6 @@ Refactoring helps make our code cleaner and more organized.  design and software
 However, we do not always refactor our code due to disadvantages. These disadvantages may includes risky when the application is big. It's risky when the existing code doesn't have proper test cases for existing codes. 
 ### The Advantage of Refactoring Stock Analysis
 The biggest benefit that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took more time , whereas our new analysis only took approximately 0.25 seconds to run. Attached below are the screenshots that indicate the run time for our new analysis.
+
+![Refactor_time_2017](Refactor_time_2017.png)
+![Refactor_time_2018](Refactor_time_2018.png)
