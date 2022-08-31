@@ -11,7 +11,8 @@ The data that is presented includes two charts with stock information on 12 diff
 
 ### Analysis
 Before refactoring the code, I used the original script codes and activated it. The refactoring steps were structured out in order to follow. the steps were as below:
-![Refactor_time_2017.png](Code_Refactoring.png)
+![Code_Refactoring](https://user-images.githubusercontent.com/111541268/187753852-638c0034-1150-44fd-90fc-d98d88637afa.png)
+
 
 ## Summary
 
@@ -21,5 +22,5 @@ However, we do not always refactor our code due to disadvantages. These disadvan
 ### The Advantage of Refactoring Stock Analysis
 The biggest benefit that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took more time , whereas our new analysis only took approximately 0.25 seconds to run. Attached below are the screenshots that indicate the run time for our new analysis.
 
-![Refactor_time_2017](Refactor_time_2017.png)
-![Refactor_time_2018](Refactor_time_2018.png)
+![Refactor_time_2017](https://user-images.githubusercontent.com/111541268/187753919-3a2c6c81-2af3-407e-8e5e-7d825888153d.png)
+![Refactor_time_2018](https://user-images.githubusercontent.com/111541268/187754037-ecfd7693-23d8-4796-8080-85c2fcaa8155.png)
